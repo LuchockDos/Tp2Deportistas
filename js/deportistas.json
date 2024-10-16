@@ -1,0 +1,333 @@
+{
+    "deportistas": [
+      {
+        "nombre": "Lionel Messi",
+        "deporte": "Fútbol",
+        "país": "Argentina",
+        "altura": 170,
+        "peso": 67
+      },
+      {
+        "nombre": "Cristiano Ronaldo",
+        "deporte": "Fútbol",
+        "país": "Portugal",
+        "altura": 185,
+        "peso": 80
+      },
+      {
+        "nombre": "LeBron James",
+        "deporte": "Baloncesto",
+        "país": "EE.UU.",
+        "altura": 206,
+        "peso": 113
+      },
+      {
+        "nombre": "Tom Brady",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 193,
+        "peso": 102
+      },
+      {
+        "nombre": "Serena Williams",
+        "deporte": "Tenis",
+        "país": "EE.UU.",
+        "altura": 175,
+        "peso": 70
+      },
+      {
+        "nombre": "Roger Federer",
+        "deporte": "Tenis",
+        "país": "Suiza",
+        "altura": 185,
+        "peso": 85
+      },
+      {
+        "nombre": "Usain Bolt",
+        "deporte": "Atletismo",
+        "país": "Jamaica",
+        "altura": 196,
+        "peso": 94
+      },
+      {
+        "nombre": "Michael Phelps",
+        "deporte": "Natación",
+        "país": "EE.UU.",
+        "altura": 193,
+        "peso": 88
+      },
+      {
+        "nombre": "Rafael Nadal",
+        "deporte": "Tenis",
+        "país": "España",
+        "altura": 185,
+        "peso": 85
+      },
+      {
+        "nombre": "Novak Djokovic",
+        "deporte": "Tenis",
+        "país": "Serbia",
+        "altura": 188,
+        "peso": 80
+      },
+      {
+        "nombre": "Simone Biles",
+        "deporte": "Gimnasia",
+        "país": "EE.UU.",
+        "altura": 145,
+        "peso": 47
+      },
+      {
+        "nombre": "Kobe Bryant",
+        "deporte": "Baloncesto",
+        "país": "EE.UU.",
+        "altura": 198,
+        "peso": 91
+      },
+      {
+        "nombre": "Tiger Woods",
+        "deporte": "Golf",
+        "país": "EE.UU.",
+        "altura": 185,
+        "peso": 84
+      },
+      {
+        "nombre": "Maria Sharapova",
+        "deporte": "Tenis",
+        "país": "Rusia",
+        "altura": 188,
+        "peso": 59
+      },
+      {
+        "nombre": "Wayne Rooney",
+        "deporte": "Fútbol",
+        "país": "Inglaterra",
+        "altura": 176,
+        "peso": 83
+      },
+      {
+        "nombre": "David Beckham",
+        "deporte": "Fútbol",
+        "país": "Inglaterra",
+        "altura": 183,
+        "peso": 75
+      },
+      {
+        "nombre": "Zlatan Ibrahimović",
+        "deporte": "Fútbol",
+        "país": "Suecia",
+        "altura": 195,
+        "peso": 95
+      },
+      {
+        "nombre": "Saquon Barkley",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 180,
+        "peso": 106
+      },
+      {
+        "nombre": "Aaron Judge",
+        "deporte": "Béisbol",
+        "país": "EE.UU.",
+        "altura": 201,
+        "peso": 127
+      },
+      {
+        "nombre": "Giannis Antetokounmpo",
+        "deporte": "Baloncesto",
+        "país": "Grecia",
+        "altura": 206,
+        "peso": 110
+      },
+      {
+        "nombre": "Stephen Curry",
+        "deporte": "Baloncesto",
+        "país": "EE.UU.",
+        "altura": 191,
+        "peso": 86
+      },
+      {
+        "nombre": "Kevin Durant",
+        "deporte": "Baloncesto",
+        "país": "EE.UU.",
+        "altura": 206,
+        "peso ": 109
+      },
+      {
+        "nombre": "Russell Wilson",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 180,
+        "peso": 95
+      },
+      {
+        "nombre": "Cam Newton",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 196,
+        "peso": 111
+      },
+      {
+        "nombre": "Odell Beckham Jr.",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 178,
+        "peso": 90
+      },
+      {
+        "nombre": "Eli Manning",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 193,
+        "peso": 99
+      },
+      {
+        "nombre": "Peyton Manning",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 196,
+        "peso": 104
+      },
+      {
+        "nombre": "Drew Brees",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 183,
+        "peso": 95
+      },
+      {
+        "nombre": "Tony Romo",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 188,
+        "peso": 104
+      },
+      {
+        "nombre": "Aaron Rodgers",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 188,
+        "peso": 102
+      },
+      {
+        "nombre": "Ben Roethlisberger",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 196,
+        "peso": 109
+      },
+      {
+        "nombre": "Philip Rivers",
+        "deporte": "Fútbol Americano",
+        "país": "EE.UU.",
+        "altura": 196,
+        "peso": 103
+      },
+      {
+        "nombre": "Tommy Haas",
+        "deporte": "Tenis",
+        "país": "Alemania",
+        "altura": 188,
+        "peso": 90
+      },
+      {
+        "nombre": "Andy Murray",
+        "deporte": "Tenis",
+        "país": "Escocia",
+        "altura": 191,
+        "peso": 84
+      },
+      {
+        "nombre": "Stan Wawrinka",
+        "deporte": "Tenis",
+        "país": "Suiza",
+        "altura": 183,
+        "peso": 81
+      },
+      {
+        "nombre": "Jo-Wilfried Tsonga",
+        "deporte": "Tenis",
+        "país": "Francia",
+        "altura": 188,
+        "peso": 91
+      },
+      {
+        "nombre": "Kei Nishikori",
+        "deporte": "Tenis",
+        "país": "Japón",
+        "altura": 178,
+        "peso": 73
+      },
+      {
+        "nombre": "Milos Raonic",
+        "deporte": "Tenis",
+        "país": "Canadá",
+        "altura": 196,
+        "peso": 98
+      },
+      {
+        "nombre": "Grigor Dimitrov",
+        "deporte": "Tenis",
+        "país": "Bulgaria",
+        "altura": 191,
+        "peso": 81
+      },
+      {
+        "nombre": "Nick Kyrgios",
+        "deporte": "Tenis",
+        "país": "Australia",
+        "altura": 193,
+        "peso": 77
+      },
+      {
+        "nombre": "Alexander Zverev",
+        "deporte": "Tenis",
+        "país": "Alemania",
+        "altura": 198,
+        "peso": 90
+      },
+      {
+        "nombre": "Stefanos Tsitsipas",
+        "deporte": "Tenis",
+        "país": "Grecia",
+        "altura": 193,
+        "peso": 90
+      },
+      {
+        "nombre": "Daniil Medvedev",
+        "deporte": "Tenis",
+        "país ": "Rusia",
+        "altura": 198,
+        "peso": 83
+      },
+      {
+        "nombre": "Dominic Thiem",
+        "deporte": "Tenis",
+        "país": "Austria",
+        "altura": 185,
+        "peso": 79
+      },
+      {
+        "nombre": "Matteo Berrettini",
+        "deporte": "Tenis",
+        "país": "Italia",
+        "altura": 196,
+        "peso": 95
+      },
+      {
+        "nombre": "Gael Monfils",
+        "deporte": "Tenis",
+        "país": "Francia",
+        "altura": 193,
+        "peso": 86
+      },
+      {
+        "nombre": "David Goffin",
+        "deporte": "Tenis",
+        "país": "Bélgica",
+        "altura": 180,
+        "peso": 68
+      }
+    ]
+  }

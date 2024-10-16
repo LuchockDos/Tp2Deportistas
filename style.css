@@ -1,0 +1,65 @@
+body {
+  background-image: url(js/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#buscador {
+  width: 50%;
+  height: 30px;
+  font-size: 18px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+#btn-buscar {
+  width: 100px;
+  height: 30px;
+  font-size: 18px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#btn-buscar:hover {
+  background-color: #3e8e41;
+}
+
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+input,
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#resultado {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.tarjeta {
+
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  width: 200px; 
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: rgb(190, 247, 203);
+}
